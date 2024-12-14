@@ -17,7 +17,7 @@ const greeting = {
     "A passionate Full Stack Developer  👨‍💻 Information security Analyst 🤖 |A Learner  ✍️ "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1s8YiHqZInuDYghiPbGHbCdAETI0l842A/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1xjQFPynPsJMujQRL4nrSel8oQsQkcLba/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
